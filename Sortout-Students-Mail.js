@@ -1,5 +1,5 @@
 //参考：https://qiita.com/matsuhandy/items/ddb7ed092b29c5b8b3c5
-
+//アンケートフォームに回答者または未回答者を選択させ、それらに対応するSlackIDを指定のメールアドレスに送信する
 var logID    = "**************";//log2ID
 var ssID1    = "**************";//フォーム入力で作成されたSpreadsheetのID
 var ssID3    = "**************"//database ssID
